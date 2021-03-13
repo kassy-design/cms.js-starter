@@ -13,7 +13,7 @@ var config = {
   github: {
     username: 'kassy-design',
     repo: 'cms.js-starter',
-    branch: 'https://github.com/kassy-design/official',
+    branch: 'gh-pages',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',
